@@ -38,7 +38,7 @@ I'm a passionate **[Creative Technologist /Full-Stack Software Engineer Junior R
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[Personal Website / Blog]**[(your_website_or_blog_link)](https://sites.google.com/d/1Ta4t4tKt4c5qIE2CElauVaREGtFetjmK/p/1ikl9DGMkrn1C9S2CrYlJykumQfuqXHPB/edit)
 - **[LinkedIn]**(your_linkedin_profile_link)
 - **[Twitter]**(your_twitter_profile_link)
 
