@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#007acc;">Lateef Emmanuel Babatunde</span></h1>
-<h3 align="center">💻 Full-Stack Software Engineer | 🎬 Motion Graphics Animator | 🚀 Problem Solver</h3>
+<h3 align="center">💻 Full-Stack Software Engineer | 🎬 Motion Graphics Animator | 🚀 Business Solution Provider | Creative Technologist </h3>
 
 ---
 
