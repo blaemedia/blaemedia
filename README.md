@@ -23,10 +23,12 @@ Over the years, I’ve gained hands-on experience in **C# (.NET)**, **Java (Spri
 > “Technology is not just about code — it’s about building solutions that make life smarter and simpler.”
 
 I’m inspired by the power of technology to drive growth and solve pressing community needs.  
-Some of the projects I’m passionate about include:  
-- 🥊 **Boxing Promotion Platform** – to spotlight Nigerian boxers and connect fans digitally.  
-- 🎓 **Student Exam Prep Platform** – engaging students with past questions (WAEC, NECO, GCE, JAMB).  
-- 🔥 **Smart Gas Cylinder Monitor** – IoT-based system that tracks gas usage and alerts users before it finishes.  
+Some of the projects I’m passionate about include: 
+
+
+- I’m exploring digital sports innovation to help athletes and creators reach a broader audience.  
+- 🎓 **I’m interested in educational technology that improves students’ access to learning resources and assessments.
+- I’m passionate about developing IoT-powered systems that make daily home management more efficient and proactive. 
 
 ---
 
