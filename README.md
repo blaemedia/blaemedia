@@ -1,6 +1,6 @@
 # Hi there, I'm Lateef Emmanuel Babatunde! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://drive.google.com/file/d/1eZ2d9G7AXGks0nE9VDX_CW52GOi2Uzn7/view?usp=drive_link)
 
 ## About Me 🚀
 
